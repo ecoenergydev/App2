@@ -11,4 +11,6 @@ and obtain the result of converting nitrogen oxide emissions to NOx (1.4).
 ## Run 
 1. Go to the link and wakeup bot: https://hex-t-bot.onrender.com
 2. Open @EcoEmissionBot
-3. 
+3. Enter "/start"
+4. Enter two numbers separated by a space:
+O2, % NOx, ppm
