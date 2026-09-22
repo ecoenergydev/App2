@@ -5,7 +5,7 @@ and obtain the result of converting nitrogen oxide emissions to NOx (1.4).
 
 ## Requirements
 
-* Java 21 & Spring Boot 3
+* Java 21 & Spring Boot 4
 * Gradle > 8.14
 
 ## Run 
