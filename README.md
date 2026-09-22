@@ -14,3 +14,4 @@ and obtain the result of converting nitrogen oxide emissions to NOx (1.4).
 3. Enter "/start"
 4. Enter two numbers separated by a space:
 O2, % NOx, ppm
+Example: 6 57
