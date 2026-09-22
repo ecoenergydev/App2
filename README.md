@@ -15,3 +15,6 @@ and obtain the result of converting nitrogen oxide emissions to NOx (1.4).
 4. Enter two numbers separated by a space:
 O2, % NOx, ppm
 Example: 6 57
+
+## Benefit 
+It speeds up the process of obtaining calculation results after measuring emissions.
