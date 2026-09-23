@@ -18,3 +18,5 @@ Example: 6 57
 
 ## Benefit 
 It speeds up the process of obtaining calculation results after measuring emissions.
+
+<img width="1261" height="548" alt="image" src="https://github.com/user-attachments/assets/dbcdaaed-8d4d-4cc5-bcc0-97802a04c9c1" />
